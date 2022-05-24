@@ -1,0 +1,32 @@
+{
+  "name": "with-apollo",
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/react-common": "latest",
+    "@apollo/react-hooks": "latest",
+    "@apollo/react-ssr": "latest",
+    "apollo-cache-inmemory": "latest",
+    "apollo-client": "latest",
+    "apollo-link-http": "latest",
+    "apollo-link-schema": "latest",
+    "apollo-server-micro": "latest",
+    "apollo-utilities": "latest",
+    "bcrypt": "latest",
+    "cookie": "latest",
+    "graphql": "latest",
+    "graphql-tag": "latest",
+    "isomorphic-unfetch": "^3.0.0",
+    "jsonwebtoken": "latest",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "undefined": "^0.1.0",
+    "uuid": "latest"
+  }
+}
