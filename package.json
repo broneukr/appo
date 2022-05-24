@@ -26,7 +26,7 @@
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "undefined": "^0.1.0",
+ 
     "uuid": "latest"
   },
   "devDependencies": {
