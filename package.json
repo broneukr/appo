@@ -28,5 +28,12 @@
     "react-dom": "latest",
     "undefined": "^0.1.0",
     "uuid": "latest"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.189"
+  },
+  "optionalDependencies": {
+    "@next/swc-linux-x64-gnu": "12.1.6"
   }
 }
